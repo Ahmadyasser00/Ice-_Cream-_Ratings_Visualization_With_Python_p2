@@ -14,4 +14,3 @@ This project is designed to analyze and visualize ice cream ratings using Python
 
 This project is an excellent resource for data analysts, data visualization enthusiasts, and anyone looking to enhance their skills in time-series data analysis and insightful reporting.  
 
-Would you like any modifications or additions before uploading it to GitHub 😊
